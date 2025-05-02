@@ -1,0 +1,29 @@
+.text-center {
+    text-align: center;
+  }
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:auto ;
+  }
+
+  .post {
+    margin-top: 0.5em;
+    margin-left: 2em;
+    margin-right: 2em;
+    text-align: center;
+}
+
+.post p{
+    max-width: 1200px;
+    padding: .5em;
+    text-align: justify;
+    margin: 0;
+    top: 1.25em;
+}
+
+.post h1{
+    text-align: center;
+}
